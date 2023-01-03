@@ -22,7 +22,7 @@ let what = whatArr[Math.floor(Math.random()*whatArr.length)];
 
 
 console.log(
-    `VacayRobot ${action} travel to ${where} by ${how}, for an epic ${what} trip!`
+    `VacayBot ${action} travel to ${where} by ${how}, for an epic ${what} trip!`
     );
 
 // console.log(where + how + what)
