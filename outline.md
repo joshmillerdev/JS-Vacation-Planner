@@ -15,3 +15,5 @@
 'horse', 'horse and carriage', 'laser guided passenger missile', 'spaceship', 'car', 'foot', 'long distance slip-n-slide', 'dog sled', 'sprinting', 'swimming the butterfly', 'sailboat'
 ### What to do while there
 'sailing', 'rock climbing', 'banana picking', 'take welding classes', 'embark on a journey around the world', 'backpacking', 'skiing the steep pow pow', 'exploring the local culinary scene', 'hang-gliding', 'competitive hot dog eating'
+### Action
+'says you should', 'thinks it would be fun to', 'wants to pay for you to', 'insists that you', 'believes that your mental health will benefit if you', 'warns that you should never', 'says you risk extreme danger if you', 'forecasts you will find the meaning of life when you', 'f**k it, just'
